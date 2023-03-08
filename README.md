@@ -12,4 +12,4 @@
  - [ ] 
 
 ## Reference
-* ([machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint] https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/?nc1=h_ls)
+* [machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint](https://aws.amazon.com/getting-started/hands-on/machine-learning-tutorial-deploy-model-to-real-time-inference-endpoint/?nc1=h_ls)
