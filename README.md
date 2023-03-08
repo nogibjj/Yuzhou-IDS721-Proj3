@@ -4,5 +4,5 @@
 * Example systems could be:  (AWS Athena, AWS Spark/EMR, AWS Sagemaker, Databricks, Snowflake)
 
 ## Progress
- -[x] Configured Amazon SageMaker Studio domain
- -[x] Configured Amazon SageMaker Studio notebook
+ - [x] Configured Amazon SageMaker Studio domain
+ - [x] Configured Amazon SageMaker Studio notebook
