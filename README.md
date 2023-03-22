@@ -8,7 +8,7 @@
  - [x] Set up Amazon SageMaker Studio notebook
  - [x] Create realtime inference end-point
  - [x] Build a end-to-end inference pipeline using other models
- - [ ] Create our own model to be deployed on the inference endpoint
+ - [x] Train our own model to be deployed on the inference endpoint
 
 ### Configure Amazon SageMaker Studio domain
 1. Success of cloud stack creation 
@@ -35,6 +35,7 @@
 ![Proof Endpoint creation](assets/proof_sagemaker_endpoint_configuration.png)
 
 ### Inference via the endpoint
+![Proof Confusion Matrix](assets/proof_confusion_matrix.png)
 ![Proof Inference](assets/proof_first_five_prediction.png)
 
 ## Reference
